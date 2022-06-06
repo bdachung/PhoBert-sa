@@ -1,6 +1,5 @@
 __pycache__/
 .vscode/
-data/*
 src/.ipynb_checkpoints/*
 src/models/phoBert-sa/*
 src/models/wandb/*
